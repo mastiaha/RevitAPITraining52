@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+	<AddIn Type="Command">
+		<Assembly>"C:\Program Files\RevitAPITrainig\RevitAPITraining52.dll"</Assembly>
+		<AddInId>F308D431-90B9-4933-AF61-630291D5BEAE</AddInId>
+		<FullClassName>RevitAPITraining52.Main</FullClassName>
+		<VendorId>ADSK</VendorId>
+		<Text>Лаба 5.1</Text>
+	</AddIn>
+</RevitAddIns>
